@@ -1,0 +1,130 @@
+{
+  "response": {
+    "status": "ok",
+    "articles": [
+        {
+        "source": {
+          "id": "abc-news-au",
+          "name": "ABC News (AU)"
+        },
+        "author": null,
+        "title": "¡ZORRO NO TE LO LLEVES!",
+        "description": "Compañero zorro, si encontrataste lo siguiente, fovor de devolverlo a ·SAITQ. Cartera color morado en el edificio G entre la 1 y 3 pm; y cargador Sony perdido en el trébol.",
+        "url": "https://m.facebook.com/story.php?story_fbid=1539769332737794&id=238970532817687",
+        "urlToImage": "http://web-2.itq.edu.mx/saitq/img/logo.jpg",
+        "publishedAt": "2017-12-05T16:17:21Z"
+      },
+        {
+        "source": {
+          "id": "abc-news-au",
+          "name": "ABC News (AU)"
+        },
+        "author": null,
+        "title": "Mikel Arriola renuncia como Director del IMSS",
+        "description": "El presidente Enrique Peña Nieto nombró al frente del IMSS a Tuffic Miguel Ortega, quien se desempeñaba como director de Incorporación y Recaudación del instituto",
+        "url": "http://www.milenio.com/politica/mikel_arriola-renuncia-imss-elecciones_2018-enrique_pena_nieto-cdmx_0_1080492068.html",
+        "urlToImage": "http://www.milenio.com/politica/mikel_arriola-renuncia-imss-elecciones_2018-milenio_MILIMA20171207_0256_8.jpg",
+        "publishedAt": "2017-12-07T11:58:23Z"
+      },
+      
+      {
+        "source": {
+          "id": "abc-news-au",
+          "name": "ABC News (AU)"
+        },
+        "author": null,
+        "title": "Promueve TecNM Ciencia y Tecnología en niños y jóvenes de zonas rurales",
+        "description": "El Tecnológico Nacional de México (TecNM) Campus Úrsulo Galván llevó a cabo el Programa de Capacitación para Niños y Jóvenes en la Ciencia y Tecnología con recursos cofinanciados con el CONACYT. ",
+        "url": "http://www.tecnm.mx/academicas/promueve-tecnm-ciencia-y-tecnologia-en-ninos-y-jovenes-de-zonas-rurales",
+        "urlToImage": "http://www.tecnm.mx/images/areas/difusion0101/Difusion0101/2017/DICIEMBRE_/NOTAS_/6_URSULO_GALV%C3%81N_/descarga_4.jpg",
+        "publishedAt": "2017-12-06T22:09:05Z"
+      },
+      {
+        "source": {
+          "id": "abc-news-au",
+          "name": "ABC News (AU)"
+        },
+        "author": null,
+        "title": "NUEVOS LABORATORIO DE IDIOMAS Y EDIFICIO MULTIFUNCIONAL EN CAMPUS NORTE",
+        "description": "Nuevos Laboratorios de Idiomas y Edificio Multifuncional en Campus Norte",
+        "url": "http://www.itq.edu.mx/noticias/edificiosnuecn1.pdf",
+        "urlToImage": "http://www.abc.net.au/news/image/9234242-1x1-700x700.jpg",
+        "publishedAt": "2017-12-05T18:43:05Z"
+      },
+      
+      {
+        "source": {
+          "id": "abc-news-au",
+          "name": "ABC News (AU)"
+        },
+        "author": null,
+        "title": "CAMARA NACIONAL DE LA INDUSTRIA DE LA TRANSFORMACIÓN (CANACINTRA, QRO) INSTITUTO TECNOLÓGICO DE QUERÉTARO",
+        "description": "Con el propósito de impulsar la vinculación con organismos empresariales y sus agremiados, así como la formación en Responsabilidad Social Empresarial (RSE) en el Estado de Querétaro.",
+        "url": "http://www.itq.edu.mx/convocatorias/conv2018.pdf",
+        "urlToImage": "http://www.abc.net.au/news/image/9233812-1x1-700x700.jpg",
+        "publishedAt": "2017-12-04T13:20:56Z"
+      },
+      {
+        "source": {
+          "id": "abc-news-au",
+          "name": "ABC News (AU)"
+        },
+        "author": null,
+        "title": "EGRESADOS TITULADOS DE JUNIO 2016 A JUNIO 2017",
+        "description": "Se les solicita estar pendientes a nuevos comunicados",
+        "url": "http://www.itq.edu.mx/noticias/avisotituloscedulas.pdf",
+        "urlToImage": "http://www.itq.edu.mx/imagenes/tituloycedula.png",
+        "publishedAt": "2017-12-01T20:03:07Z"
+      },
+      {
+        "source": {
+          "id": "abc-news-au",
+          "name": "ABC News (AU)"
+        },
+        "author": null,
+        "title": "PROGRAMA DE MAESTRÍA EN INGENIERÍA, OBTIENE POR SEGUNDA OCASIÓN EL PNPC DE CONACYT",
+        "description": "PROGRAMA NACIONAL DE POSGRADO DE CALIDAD DE CONACYT",
+        "url": "http://www.itq.edu.mx/noticias/pnpc.html",
+        "urlToImage": "http://www.itq.edu.mx/imagenes/conacyt1.png",
+        "publishedAt": "2017-11-027T08:33:35Z"
+      },
+      
+      {
+        "source": {
+          "id": "abc-news-au",
+          "name": "ABC News (AU)"
+        },
+        "author": null,
+        "title": "YOUNG SCHOLAR FOR BETTER STATISTICS",
+        "description": "En el marco de la XXVI edición de la Conferencia de IAOS-OECD, la Asociación Internacional de Estadísticas Oficiales (IAOS, por sus siglas en inglés) y la Organización para la Cooperación y el Desarrollo Económicos (OCDE), instauran el premio Young Scholar for Better Statistics",
+        "url": "http://www.itq.edu.mx/convocatorias/iaos.html",
+        "urlToImage": "http://www.itq.edu.mx/imagenes/iaos.png",
+        "publishedAt": "2017-11-21T22:29:31Z"
+      },
+      {
+        "source": {
+          "id": "abc-news-au",
+          "name": "ABC News (AU)"
+        },
+        "author": null,
+        "title": "EL INSTITUTO TECNOLÓGICO DE QUERÉTARO",
+        "description": "Programa de Servicio Social Convoca a los estudiantes de nivel licenciatura que tengan aprobados el 70% de sus créditos académicos.",
+        "url": "http://www.itq.edu.mx/planeacion/serv_social/convssenejun18.pdf",
+        "urlToImage": "http://www.itq.edu.mx/imagenes/convssenejun18.png",
+        "publishedAt": "2017-09-24T19:07:58Z"
+      },
+      {
+        "source": {
+          "id": "abc-news-au",
+          "name": "ABC News (AU)"
+        },
+        "author": null,
+        "title": "PROGRAMA DE BECAS DE ESTUDIOS EN New York",
+        "description": "El objetivo de estos programas es ofrecer la oportunidad de profundizar el conocimiento en el área de administración, idioma inglés y realizar una experiencia internacional - objetivos relevantes para los jóvenes profesionales del siglo XXI.",
+        "url": "http://www.itq.edu.mx/noticias/progbecas17.pdf",
+        "urlToImage": "http://www.itq.edu.mx/imagenes/progbecas.png",
+        "publishedAt": "2017-10-12T19:19:38Z"
+      }
+    ]
+  }
+}
